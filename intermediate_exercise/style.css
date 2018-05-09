@@ -3,6 +3,21 @@ body{
     background:#eee;
 }
 
+.red {
+    background-color: red !important;
+    opacity: 0;
+}
+
+.green {
+    background-color: green !important;
+    opacity: 0;
+}
+
+.blue {
+    background-color: blue !important;
+    opacity: 0;
+}
+
 .prod-info-main {
     border: 1px solid #CEEFFF;
     margin-bottom: 20px;
